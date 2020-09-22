@@ -1,0 +1,65 @@
+#info {
+    display: block;
+    text-align: center;
+    font-size: 250%;
+    color: white;
+}
+
+h3 {
+    font-size: 300%;
+    color: White; 
+    text-align: center;
+
+}
+
+#skolgång {
+    display: block;
+    text-align: center;
+    font-size: 250%;
+    color: white;
+    margin-top: 50px;
+
+
+
+}
+
+#framtid {
+    display: block;
+    text-align: center;
+    font-size: 250%;
+    color: white;
+    margin-top: 50px;
+}
+
+#intressen {
+    display: block;
+    text-align: center;
+    font-size: 250%;
+    color: white;
+    margin-top: 50px;
+
+
+
+}
+
+h1 {
+    
+    color: black;
+
+}
+
+h2 {
+
+    color: white;
+    
+
+
+}
+
+img {
+    display: block;
+    text-align: center;
+
+
+
+}
